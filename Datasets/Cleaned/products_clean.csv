@@ -1,0 +1,6 @@
+﻿Product_ID,Product_Name,Category,Cost_Per_KG,Price_Per_KG,Profit_Per_KG
+P01,تمر مجدول فاخر,Premium,40,90,50
+P02,تمر سكري رطب,Premium,25,50,25
+P03,تمر خلاص,Regular,15,35,20
+P04,تمر عجوة المدينة,Premium,60,35,-25
+P05,تمر صفاوي,Regular,20,18,-2
