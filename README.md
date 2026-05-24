@@ -2,4 +2,9 @@
 
 ## Documentation
 
-📄 [View Full Technical Case Study](./SOLUTIONS_LOG.pdf)
+📄 [Full Project Documentation (PDF)](./SOLUTIONS_LOG.pdf)
+
+
+## Dashboard Preview
+
+![Dashboard](Dashboard/dashboard.png)
